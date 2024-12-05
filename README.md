@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">AI and ML enthusiast</h3>
 <div align="center">
-  📫📫 I am currently in 3rd year of a Bachelor's degree in MISA</br> at the University of Antananarivo.
+  📫📫 I am currently in first year of a master's degree in MISA</br> at the University of Antananarivo.
 </div>
 
 </br>
