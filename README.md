@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 </br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nestjs,godot,tailwind,vscode,github,git,c,cpp,python,mysql,sqlite,postgresql,tensorflow,scikitlearn,keras,unity,Django" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nestjs,godot,tailwind,vscode,github,git,c,cpp,python,mysql,sqlite,postgresql,tensorflow,scikitlearn,keras,unity,Django,gradio,huggingface" />
 </div>
 </hr>
  <h2 align="center">⚡ Stats ⚡</h2>
