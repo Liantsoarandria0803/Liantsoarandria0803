@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Liantsoa+Randria!;" />
 </h1>
-<h3 align="center">AI and ML enthusiast</h3>
+<h3 align="center">Junior AI research engineer</h3>
 <div align="center">
   📫📫 I am currently in first year of a master's degree in MISA</br> at the University of Antananarivo.
 </div>
