@@ -11,7 +11,7 @@
   <a href="mailto:liantsoarandrianasimbolarivelo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://liantsoa-randria.netlify.app/" target="_blank">
+  <a href="https://liantsoax08randria.netlify.app//" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <a href=https://www.linkedin.com/in/liantsoa-rantoniaina-randrianasimbolarivelo-90789a314/" target="_blank">
