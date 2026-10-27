@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">AI research engineer</h3>
 <div align="center">
-  📫📫 MSc Student at Stellenbosch University | AIMS–Google DeepMind AI for Science Programme </br> at the University of Antananarivo.
+  📫📫 MSc Student at Stellenbosch University | AIMS–Google DeepMind AI for Science Programme </br>.
 </div>
 
 </br>
