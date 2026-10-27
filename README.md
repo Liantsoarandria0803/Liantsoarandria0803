@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">AI research engineer</h3>
 <div align="center">
-  📫📫 I am currently in first year of a master's degree in MISA</br> at the University of Antananarivo.
+  📫📫 MSc Student at Stellenbosch University | AIMS–Google DeepMind AI for Science Programme </br> at the University of Antananarivo.
 </div>
 
 </br>
